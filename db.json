@@ -895,6 +895,32 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Harissa and chickpea burger ",
+      "restaurant": "Baguette & Baguette",
+      "web": "https://baguettedelivery.tn/",
+      "description": "Tunisian, Maghrebi, North African",
+      "ingredients": [
+        "beef",
+        "harissa",
+        "chickpea",
+        "onion",
+        "mozzarella",
+        "lettuce",
+        "tomato"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "216",
+          "line1": "Mourouj",
+          "line2": "Bou Mhel",
+          "postcode": "2070",
+          "country": "Tunisia"
+        }
+      ]
     }
   ]
 }
